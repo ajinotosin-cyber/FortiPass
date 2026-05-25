@@ -2,6 +2,9 @@
 
 FortiPass is a password security analyzer developed with Streamlit.
 
+## Live Application
+https://fortipass-j6czdwnhf64pzrkhbdmwpd.streamlit.app/
+
 ## Features
 
 - Password strength analysis
